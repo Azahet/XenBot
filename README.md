@@ -22,4 +22,4 @@ For the moment, only a few, if you want a really strong ready-to-use Obfuscator 
 
 License
 =====
-XenBot is licensed under the very permissive Apache 2.0 license. Any submodules or dependencies may be under different licenses.
+XenBot is licensed under the very permissive MIT license. Any submodules or dependencies may be under different licenses.
