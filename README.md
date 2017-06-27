@@ -13,8 +13,6 @@ Project goals:
 
 # What features does it have?
 
-For the moment, only a few, if you want a really strong ready-to-use Obfuscator have a look at NETGuard.io
-
 * Connect
 * Analyse thread with blacklist word
 * Analyse recent posts for each profile with blacklist word
