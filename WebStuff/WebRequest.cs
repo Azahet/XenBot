@@ -10,7 +10,7 @@ namespace XenForo_Bot_AntiLeech.WebStuff
 {
     public class WebRequest
     {
-        private static readonly RestClient Client = new RestClient("https://instant-hack.io/");
+        private static readonly RestClient Client = new RestClient(BotConfig.ForumsUrl);
         private static readonly CookieContainer Cookie = new CookieContainer();
 
         public static string Post(string RelativeUrl, Dictionary<string, string> Parametres)
