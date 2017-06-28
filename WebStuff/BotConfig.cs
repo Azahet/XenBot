@@ -9,6 +9,7 @@ namespace XenForo_Bot_AntiLeech.WebStuff
 {
     internal class BotConfig
     {
+        public static string ForumsUrl = "";
         public static string Pseudo = "";
         public static string Password = "";
         public static string Token;
